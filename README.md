@@ -5,3 +5,14 @@ if(ValueOfA==2){
 }else{
     position = false;
 }
+
+int g=0;
+int vx=0;
+
+public void startVelocity(){
+
+boolean isInTheAir(){
+  ....
+ 
+ }
+}
